@@ -1,2 +1,2 @@
-# movieTime
+# movietime
 Movie app
