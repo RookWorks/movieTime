@@ -23,7 +23,10 @@ const App = () => {
 
   return (
     <div className="app">
+      <h1>Navigation Goes Here</h1>
       <h1>MovieLand</h1>
+      <h1>Treading Videos Goes Here</h1>
+      <h1>Staff Picks Goes Here</h1>
 
       <div className="search">
         <input
@@ -49,6 +52,7 @@ const App = () => {
           <h2>No movies found</h2>
         </div>
       )}
+       <h1>Footer Goes Here</h1>
     </div>
   );
 };
